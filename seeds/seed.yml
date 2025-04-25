@@ -1,0 +1,5 @@
+seeds:
+  - name: sd_country_codes
+    config:
+      column_types:
+        id: varchar
