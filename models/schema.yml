@@ -1,0 +1,9 @@
+sources:
+  - name: raw_ord
+    database: orders_db
+    schema: orders_sc
+    tables:
+      - name: RAW_ORDERS
+      - name: RAW_CUSTOMERS
+      - name: RAW_ORDER_ITEMS
+      - name: RAW_PRODUCTS
